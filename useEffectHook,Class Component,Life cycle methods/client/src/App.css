@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.stateDiv{
+  width: 350px;
+  height: auto;
+  margin: 20px;
+  padding: 20px;
+  display: inline-block;
+  border: 2px solid rgb(64, 145, 64);
+}
